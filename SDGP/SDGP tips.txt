@@ -1,0 +1,40 @@
+1. Find a specific/interesting domain
+2. Find some challenges in that domain (e.g.: pollution)
+
+
+TrackMe
+An application that allows family members to track you
+AI Component: determine unusual patterns in movement
+
+Math helper
+An AI chat bot that can help with math problems and stuff. ChatGPT is unable to draw graphs or digrams properly. Perhaps we can try this? Seems very narrow though.
+
+
+
+
+
+IEEE Xplore
+ResearchGate
+ScienceDirect
+
+
+Read the abstract and conclusion
+
+use scikit-learn
+
+
+CI/CD pipeline - jenkins, git workflow - include this in the SRS (lit review)
+
+try to talk abou how we implemented the CI/CD
+
+intro chapter - whoever has the best idea of the idea write this (should know about most of the concept)
+
+break the problem into several parts
+background - 
+
+
+fast api
+
+
+to run python as a backend run it as a web service - use fastAPI
+there is a way t dump file and store it in the backend
